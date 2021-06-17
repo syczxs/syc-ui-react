@@ -1,0 +1,28 @@
+{
+  "name": "syc-ui-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syczxs/syc-ui-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syczxs/syc-ui-react/issues"
+  },
+  "homepage": "https://github.com/syczxs/syc-ui-react#readme",
+  "devDependencies": {
+    "typescript": "^4.3.3",
+    "webpack": "4.29.6",
+    "webpack-cli": "3.2.3"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1"
+  }
+}
