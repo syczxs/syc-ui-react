@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="10.147">
+  <testsuite name="classes" errors="0" failures="0" skipped="0" timestamp="2021-07-24T10:24:55" time="4.572" tests="1">
+    <testcase classname="classes 接受一个classname" name="classes 接受一个classname" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="icon" errors="0" failures="0" skipped="0" timestamp="2021-07-24T10:24:55" time="4.714" tests="2">
+    <testcase classname="icon render successfully" name="icon render successfully" time="0.013">
+    </testcase>
+    <testcase classname="icon onClick" name="icon onClick" time="0.053">
+    </testcase>
+  </testsuite>
+</testsuites>

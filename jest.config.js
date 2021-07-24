@@ -5,7 +5,7 @@ module.exports = {
     clearMocks: false,
     reporters: ["default","jest-junit"],
 
-    collectCoverage: false,
+    collectCoverage: true,
 
     moduleFileExtensions: ['js', 'jsx', 'ts', 'tsx'],
     moduleDirectories: ['node_modules'],
