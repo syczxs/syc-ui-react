@@ -94,18 +94,10 @@ jobs:
   publish:
     <<: *defaults
     steps:
-      - checkout
       - attach_workspace:
           at: .
       # - run: npm config set //registry.npmjs.org/:_authToken $NPM_TOKEN
       - run: npm publish
-    # steps:
-    #   - checkout
-    #   - run:
-    #       name: Publish to NPM
-    #       command: |
-    #         npm set //registry.npmjs.org/:_authToken=$NPM_TOKEN
-    #         npm publish
 
 
 
