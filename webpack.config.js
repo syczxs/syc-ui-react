@@ -29,10 +29,4 @@ module.exports = {
             }
         ]
     },
-    // plugins: [
-    //     new HtmlWebpackPlugin({
-    //         title: "syc-react",
-    //         template: 'index.html'
-    //     })
-    // ]
 }

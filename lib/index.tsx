@@ -1,2 +1,3 @@
-export {default as Icon} from "./icon/icon";
+export {default as Icon} from "./components/icon/icon";
+import "./css/index.scss"
 

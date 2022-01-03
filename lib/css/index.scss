@@ -1,0 +1,9 @@
+[class^=syc-] {
+    box-sizing: border-box;
+
+
+    &::after,
+    &::before {
+        box-sizing: border-box;
+    }
+}
